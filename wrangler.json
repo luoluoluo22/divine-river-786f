@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "divine-river-786f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "805a359f-ae70-4752-9231-12e3ea6ae6a3",
+      "database_name": "raspy-lake-91ed-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
